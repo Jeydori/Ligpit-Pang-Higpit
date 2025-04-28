@@ -1,7 +1,8 @@
 # Ligpit-Pang-Higpit
 An AI-Integrated Bolts and Nuts Robotic Sorting System using Deep Learning and Computer Vision
+![image](https://github.com/user-attachments/assets/5cd1f5ce-de7f-4c69-9bcb-5bd4fab0c5e4)
 
-![image](https://github.com/user-attachments/assets/70b0e0db-d3bb-4475-b869-2e8888241f02)
+![image](https://github.com/user-attachments/assets/83bf859d-6b67-4856-9899-e157e1e520b3)
 
 ---
 
