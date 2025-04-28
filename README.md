@@ -122,7 +122,7 @@ pip install opencv-python pyserial requests
 
 ---
 
-## Python Code 
+## Python Code (Note: replace the URL of your API generated from roboflow)
 
 ```python
 import cv2
