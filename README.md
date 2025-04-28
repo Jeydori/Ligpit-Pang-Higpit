@@ -71,7 +71,7 @@ We'll use:
 
 ---
 
-## ⚡ Wiring Diagram
+## Wiring Diagram
 
 | Arduino Pin | Connected To |
 |:-----------:|:------------:|
@@ -224,7 +224,7 @@ ser.close()  # Close the serial connection
 
 ---
 
-## 🧾 Arduino Code (Note: Calibrate the movements depending on how you set the motors because it varies, also becareful on calibrating to avoid breaking your motors)
+## Arduino Code (Note: Calibrate the movements depending on how you set the motors because it varies, also becareful on calibrating to avoid breaking your motors)
 
 ```cpp
 #include <Servo.h>
@@ -367,7 +367,7 @@ void nutSection() {
 
 ---
 
-## 🏁 Final Testing
+## Final Testing
 
 1. Connect Arduino to your PC.
 2. Upload the Arduino code.
@@ -377,7 +377,7 @@ void nutSection() {
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 
 This system integrates **AI + Computer Vision + Robotics** beautifully:
 - Roboflow handles object detection.
